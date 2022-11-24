@@ -4,3 +4,5 @@ You can send an application to the company for vacancies, send feedback, or comp
 In the "about us" section, one can familiarize himself with the company's advantages, mission, and certificates. The company has a variety of services, which can be seen in the services section.
 The company has done a lot of projects, which can be summarized in the works section. Moreover, there are vacancies to apply and once the user presses the "Connect us" button he/she is directed to the contact section where the users can send job applications,
 feedback, and complaints of service
+Github: https://github.com/00014511/WT_CW1_00014511
+Web hosting: https://637f5f511f56596abb878e23--stately-twilight-ba166b.netlify.app
